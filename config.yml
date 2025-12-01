@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: dnzhang@ub.edu
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -105,8 +105,8 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
+      text: "Dingning Zhang"
+      icon: Joey.jpg
       iconHeight: 18
 
 markup:
