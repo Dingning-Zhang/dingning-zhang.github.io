@@ -79,9 +79,9 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: dnzhang@ub.edu
+          url: mailto:dnzhang@ub.edu
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: https://us05web.zoom.us/j/8699596744?pwd=NlBxL21aOUZsUWJzd0Z2YklaSVBiUT09
         - name: Location
           url: location/
         - name: Office Hours
