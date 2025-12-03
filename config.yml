@@ -68,12 +68,12 @@ params:
               url: data/
             - name: Teaching
               url: courses/
-            - name: CV
-              url: CV/
             - name: Outreach
               url: coutreach/
 
     socialIcons:
+        - name: CV
+          url: CV/
         - name: Email
           url: mailto:dnzhang@ub.edu
         - name: Zoom
