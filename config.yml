@@ -78,6 +78,7 @@ params:
           url: mailto:dnzhang@ub.edu
         - name: ORCID
           url: https://orcid.org/0009-0000-6040-5390
+          image: "orcid-icon-lg.png"
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: Zoom
