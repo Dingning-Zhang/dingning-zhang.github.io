@@ -82,14 +82,10 @@ params:
           url: https://scholar.google.com/citations?hl=zh-CN&user=R2TnSeEAAAAJ
         - name: Zoom
           url: https://us05web.zoom.us/j/8699596744?pwd=NlBxL21aOUZsUWJzd0Z2YklaSVBiUT09
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
         - name: GitHub
           url: https://github.com/dingning-zhang
         - name: Twitter
-          url: https://x.com/pmichaillat
+          url: https://x.com/DingningZhangOf
         - name: Bluesky
           url: https://bsky.app/profile/dingningzhang.bsky.social
 
