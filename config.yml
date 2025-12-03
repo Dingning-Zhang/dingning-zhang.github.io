@@ -76,7 +76,7 @@ params:
           url: CV/
         - name: Email
           url: mailto:dnzhang@ub.edu
-        - name: ORCID.org
+        - name: ORCID
           url: https://orcid.org/0009-0000-6040-5390
           image: "orcid-icon-lg.png"
         - name: Google Scholar
