@@ -55,29 +55,25 @@ params:
     profileMode:
           enabled: true
           title: Dingning Zhang
-          subtitle: "Dingning(Joey) Zhang is a PhD researcher in Cognitive Science and Language at the University of Barcelona, affiliated with the Phonetics Laboratory and UBICS. His research interests include experimental phonetics, sociolinguistics, second language acquisition, psycholinguistics, and neuroscience."
+          subtitle: "Dingning(Joey) Zhang is a PhD researcher in Cognitive Science and Language at the University of Barcelona, affiliated with the Phonetics Laboratory. His research interests include experimental phonetics, sociolinguistics, second language acquisition, psycholinguistics, and neuroscience."
           imageUrl: "Joey.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: About
+              url: about/
+            - name: Publications
               url: papers/
-            - name: Data
+            - name: Presentations
               url: data/
-            - name: Books
-              url: books/
-            - name: Courses
+            - name: Teaching
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: CV
+              url: CV/
+            - name: Outreach
+              url: coutreach/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:dnzhang@ub.edu
         - name: Zoom
@@ -90,10 +86,6 @@ params:
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
         - name: Twitter
           url: https://x.com/pmichaillat
         - name: Bluesky
