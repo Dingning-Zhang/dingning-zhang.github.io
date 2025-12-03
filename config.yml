@@ -73,21 +73,21 @@ params:
 
     socialIcons:
         - name: CV
-          url: "/CV.pdf"/
+          url: "/CV.pdf"
         - name: Email
-          url: mailto:dnzhang@ub.edu/
+          url: "mailto:dnzhang@ub.edu"
         - name: ORCID
-          url: https://orcid.org/0009-0000-6040-5390/
+          url: "https://orcid.org/0009-0000-6040-5390"
         - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=zh-CN&user=R2TnSeEAAAAJ/
+          url: "https://scholar.google.com/citations?&user=R2TnSeEAAAAJ"
         - name: Zoom
-          url: https://us05web.zoom.us/j/8699596744?pwd=NlBxL21aOUZsUWJzd0Z2YklaSVBiUT09/
+          url: "https://us05web.zoom.us/j/8699596744?pwd=NlBxL21aOUZsUWJzd0Z2YklaSVBiUT09"
         - name: GitHub
-          url: https://github.com/dingning-zhang/
+          url: "https://github.com/dingning-zhang"
         - name: Twitter
-          url: https://x.com/DingningZhangOf/
+          url: "https://x.com/DingningZhangOf"
         - name: Bluesky
-          url: https://bsky.app/profile/dingningzhang.bsky.social/
+          url: "https://bsky.app/profile/dingningzhang.bsky.social"
 
     assets:
         disableScrollBarStyle: true
