@@ -647,11 +647,16 @@ stroke-linecap="round" stroke-linejoin="round">
     </g>
 </svg>
 {{- else if (eq $icon_name "orcid") -}}
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-  <circle cx="128" cy="128" r="120" fill="none" stroke="currentColor" stroke-width="24"/>
-  <circle cx="96" cy="104" r="16" fill="currentColor"/>
-  <line x1="96" y1="128" x2="96" y2="176" stroke="currentColor" stroke-width="24" stroke-linecap="round"/>
-  <path d="M144 100c40 0 60 25 60 50s-20 50-60 50h-24V100h24z" fill="none" stroke="currentColor" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="1.8"/>
+  <g transform="translate(-1,0)">
+    <circle cx="10" cy="9" r="1" fill="currentColor"/>
+    <line x1="10" y1="10.8" x2="10" y2="15"
+          stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M12.5 9h2.5c3 0 4.5 2 4.5 4s-1.5 4-4.5 4h-2.5V9z"
+          fill="none" stroke="currentColor" stroke-width="1.8"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
 </svg>
 {{- else if (eq $icon_name "osu!") -}}
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="currentColor" stroke-width="2">
