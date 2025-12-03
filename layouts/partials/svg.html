@@ -647,10 +647,11 @@ stroke-linecap="round" stroke-linejoin="round">
     </g>
 </svg>
 {{- else if (eq $icon_name "orcid") -}}
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
-    <path fill-rule="evenodd" clip-rule="evenodd"
-        d="M128 256C198.7 256 256 198.7 256 128C256 57.3 198.7 0 128 0C57.3 0 0 57.3 0 128C0 198.7 57.3 256 128 256ZM70.9 186.2H86.3V127.5V79.0999H70.9V186.2ZM108.9 79.0999H150.5C190.1 79.0999 207.5 107.4 207.5 132.7C207.5 160.2 186 186.3 150.7 186.3H108.9V79.0999ZM124.3 172.4H148.8C183.7 172.4 191.7 145.9 191.7 132.7C191.7 111.2 178 93 148 93H124.3V172.4ZM78.6 66.8999C84.2 66.8999 88.7 62.2999 88.7 56.7999C88.7 51.2999 84.2 46.7 78.6 46.7C73 46.7 68.5 51.2 68.5 56.7999C68.5 62.2999 73 66.8999 78.6 66.8999Z"
-        fill="currentColor" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <circle cx="128" cy="128" r="120" fill="none" stroke="currentColor" stroke-width="24"/>
+  <circle cx="96" cy="104" r="16" fill="currentColor"/>
+  <line x1="96" y1="128" x2="96" y2="176" stroke="currentColor" stroke-width="24" stroke-linecap="round"/>
+  <path d="M144 100c40 0 60 25 60 50s-20 50-60 50h-24V100h24z" fill="none" stroke="currentColor" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 {{- else if (eq $icon_name "osu!") -}}
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="currentColor" stroke-width="2">
