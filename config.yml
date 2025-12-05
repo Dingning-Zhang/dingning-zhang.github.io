@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Dingning Zhang
-          subtitle: "Dingning(Joey) Zhang is a PhD researcher in Cognitive Science and Language at the University of Barcelona, affiliated with the Phonetics Laboratory. His research interests include experimental phonetics, sociolinguistics, second language acquisition, psycholinguistics, and neuroscience."
+          subtitle: "Dingning(Joey) Zhang is a PhD researcher in Cognitive Science and Language at the University of Barcelona, affiliated with the Phonetics Laboratory. His research interests include experimental phonetics, sociolinguistics, second language acquisition, psycholinguistics"
           imageUrl: "Joey.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -84,6 +84,8 @@ params:
           url: "https://us05web.zoom.us/j/8699596744?pwd=NlBxL21aOUZsUWJzd0Z2YklaSVBiUT09"
         - name: GitHub
           url: "https://github.com/dingning-zhang"
+        - name: Linkedin
+          url: "https://www.linkedin.com/in/joey-zhang-95416329a/"
         - name: Twitter
           url: "https://x.com/DingningZhangOf"
         - name: Bluesky
