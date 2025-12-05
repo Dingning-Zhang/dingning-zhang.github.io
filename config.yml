@@ -63,7 +63,7 @@ params:
             - name: About
               url: about/
             - name: Publications
-              url: papers/
+              url: publications/
             - name: Presentations
               url: data/
             - name: Teaching
