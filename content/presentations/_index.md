@@ -3,7 +3,7 @@ title: "Presentations"
 description: "Conference posters and presentations"
 ---
 
-# Conference Presentations
+<!--# Conference Presentations
 
 Below is a list of my recent conference posters and presentations.
 
@@ -14,3 +14,4 @@ Below is a list of my recent conference posters and presentations.
 - Unveiling the Hubei Trill: A Diachronic Exploration of Its Phonological Emergence, Existence, and Evolution
   Poster presented at *'R-ATICS 8 – An international workshop for all researchers working on the variation of /r/, within and between languages*, Malta.  
   → [/presentations/ratics8/](/presentations/ratics8/)
+  -->
