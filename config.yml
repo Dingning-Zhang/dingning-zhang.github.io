@@ -76,6 +76,8 @@ params:
           url: /CV.pdf
         - name: Email
           url: "mailto:dnzhang@ub.edu"
+        - name: website
+          url: "https://linguistica.ub.edu/directori-organitzatiu/dingning-zhang"
         - name: ORCID
           url: "https://orcid.org/0009-0000-6040-5390"
         - name: Google Scholar
