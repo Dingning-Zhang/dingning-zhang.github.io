@@ -65,9 +65,9 @@ params:
             - name: Publications
               url: publications/
             - name: Presentations
-              url: data/
+              url: presentations/
             - name: Teaching
-              url: courses/
+              url: teaching/
             - name: Outreach
               url: outreach/
 
