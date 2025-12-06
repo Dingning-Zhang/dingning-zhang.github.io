@@ -1,7 +1,9 @@
 ---
 title: "Unveiling the Hubei Trill: A Systematic Exploration of Its Emergence, Existence, and Evolution"
-description: "Poster presented at 'R-ATICS 8."
-summary: "Poster presented at 'R-ATICS 8."
+date: 22-05-2025
+author: ["Dingning Zhang"]
+description: "Poster presented at 'R-ATICS 8"
+summary: "Poster presented at 'R-ATICS 8"
 showToc: false
 cover:
     image: "poster_14.png"
