@@ -11,9 +11,9 @@ cover:
 
 # Unveiling the Hubei Trill: A Systematic Exploration of Its Emergence, Existence, and Evolution
 
-**Authors:** Dingning Zhang 
-**Year:** 2025 
-**Conference:** 'R-ATICS 8, Malta 
+**Authors:** Dingning Zhang  
+**Year:** 2025  
+**Conference:** 'R-ATICS 8, Malta  
 
 ---
 
