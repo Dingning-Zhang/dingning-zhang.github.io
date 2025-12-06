@@ -1,7 +1,6 @@
 ---
 title: "Phonetic Similarity and Acquisition Challenges of Spanish Rhotics Among Chinese L2 Learners: A Theoretical and Analytical Approach"
-description: "Poster presented at PaPE 2025 on Spanish rhotics among Chinese L2 learners."
-summary: "Poster presented at PaPE 2025 on the acquisition of Spanish rhotics by L1 Chinese learners."
+description: "Poster presented at 6th Phonetics and Phonology in Europe (PaPE 2025)."
 showToc: false
 cover:
     image: "poster_14.png"
