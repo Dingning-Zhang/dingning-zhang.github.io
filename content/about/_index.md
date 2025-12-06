@@ -20,7 +20,7 @@ Beyond research and teaching, I am passionate about literature and music: *Wo di
 - Cross-linguistic production and perception studies on the Spanish and Catalan tap–trill contrast among L1 Chinese learners of L2 Spanish and Catalan.
 - A systematic review of Chinese–Spanish rhotic similarity, framed within the Speech Learning Model (SLM) and the Perceptual Assimilation Model for L2 (PAM-L2).
 - A systematic scope review of the Hubei trill, examining its phonetic and phonological characteristics, its historical and areal development, and the mechanisms underlying its emergence and persistence.  
-
+<!--
 ### Research interests
 
 - Experimental phonetics  
@@ -28,3 +28,4 @@ Beyond research and teaching, I am passionate about literature and music: *Wo di
 - Second language acquisition
 - Psycholinguistics and speech processing  
 - Cognitive and neural mechanisms of language
+-->
