@@ -4,7 +4,7 @@ description: "Poster presented at 6th Phonetics and Phonology in Europe (PaPE 20
 summary: "Poster presented at 6th Phonetics and Phonology in Europe (PaPE 2025)."
 showToc: false
 cover:
-    image: "poster_14.png"
+    image: "poster_8.png"
     alt: "PaPE 2025 poster on Spanish rhotics among Chinese L2 learners"
     relative: true
 ---
@@ -42,4 +42,4 @@ Additional factors—including task complexity, phonological environment, dialec
 
 ## Poster
 
-[![PaPE 2025 poster: Spanish rhotics among Chinese L2 learners](poster_14.png)](poster_14.png)
+[![PaPE 2025 poster: Spanish rhotics among Chinese L2 learners](poster_8.png)](poster_8.png)
