@@ -1,15 +1,14 @@
 ---
-title: "PaPE 2025 – Spanish Rhotics Poster"
-description: "Phonetic similarity and acquisition challenges of Spanish rhotics among Chinese L2 learners"
+title: "6th Phonetics and Phonology in Europe (PaPE 2025)"
+description: "Phonetic Similarity and Acquisition Challenges of Spanish Rhotics Among Chinese L2 Learners: A Theoretical and Analytical Approach"
 showToc: false
 ---
 
-# Phonetic Similarity and Acquisition Challenges of Spanish Rhotics among Chinese L2 Learners
-**Poster presented at 6th PaPE 2025 – Phonetics and Phonology in Europe, Palma**
+# Phonetic Similarity and Acquisition Challenges of Spanish Rhotics Among Chinese L2 Learners: A Theoretical and Analytical Approach
 
 **Authors:** Dingning Zhang & Dr. Wendy Elvira-García  
 **Year:** 2025  
-**Conference:** PaPE 2025 – 6th Phonetics and Phonology in Europe
+**Conference:** 6th Phonetics and Phonology in Europe (PaPE 2025), Palma
 
 ---
 
@@ -38,4 +37,4 @@ Additional factors—including task complexity, phonological environment, dialec
 
 ## Poster
 
-[![PaPE 2025 poster: Spanish rhotics among Chinese L2 learners](poster14.png)](poster14.png)
+[![PaPE 2025 poster: Spanish rhotics among Chinese L2 learners](poster_14.png)](poster_14.png)
