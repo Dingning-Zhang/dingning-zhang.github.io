@@ -1,6 +1,6 @@
 ---
 title: "Unveiling the Hubei Trill: A Systematic Exploration of Its Emergence, Existence, and Evolution"
-date: 22-05-2025
+date: 2025-05-22
 author: ["Dingning Zhang"]
 description: "Poster presented at 'R-ATICS 8"
 summary: "Poster presented at 'R-ATICS 8"
