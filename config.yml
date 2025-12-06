@@ -32,7 +32,7 @@ params:
     description: "This website hosts Dingning Zhang's research papers, presentations, course materials, curriculum vitae, and contact information."
     author: Dingning Zhang
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "December 2025"
+    DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: false
