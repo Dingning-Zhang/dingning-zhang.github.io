@@ -9,11 +9,11 @@ cover:
     relative: true
 ---
 
-# Phonetic Similarity and Acquisition Challenges of Spanish Rhotics Among Chinese L2 Learners: A Theoretical and Analytical Approach
+# Unveiling the Hubei Trill: A Systematic Exploration of Its Emergence, Existence, and Evolution
 
-**Authors:** Dingning Zhang
-**Year:** 2025  
-**Conference:** 'R-ATICS 8, Malta
+**Authors:** Dingning Zhang 
+**Year:** 2025 
+**Conference:** 'R-ATICS 8, Malta 
 
 ---
 
