@@ -1,7 +1,12 @@
 ---
-title: "6th Phonetics and Phonology in Europe (PaPE 2025)"
-description: "Phonetic Similarity and Acquisition Challenges of Spanish Rhotics Among Chinese L2 Learners: A Theoretical and Analytical Approach"
+title: "Phonetic Similarity and Acquisition Challenges of Spanish Rhotics Among Chinese L2 Learners: A Theoretical and Analytical Approach"
+description: "Poster presented at PaPE 2025 on Spanish rhotics among Chinese L2 learners."
+summary: "Poster presented at PaPE 2025 on the acquisition of Spanish rhotics by L1 Chinese learners."
 showToc: false
+cover:
+    image: "poster_14.png"
+    alt: "PaPE 2025 poster on Spanish rhotics among Chinese L2 learners"
+    relative: true
 ---
 
 # Phonetic Similarity and Acquisition Challenges of Spanish Rhotics Among Chinese L2 Learners: A Theoretical and Analytical Approach
