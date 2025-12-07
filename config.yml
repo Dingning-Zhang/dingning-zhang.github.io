@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: "张丁宁"
-          subtitle: "Zhang, Dingning is a predoctoral researcher in the PhD programme of Cognitive Science and Language at the University of Barcelona. His research interests include experimental phonetics, sociolinguistics, second language acquisition, psycholinguistics and neural mechanisms underlying language."
+          title: "Zhang, Dingning"
+          subtitle: "Zhang, Dingning 张丁宁 is a predoctoral researcher in the PhD programme of Cognitive Science and Language at the University of Barcelona. His research interests include experimental phonetics, sociolinguistics, second language acquisition, psycholinguistics and neural mechanisms underlying language."
           imageUrl: "Joey.jpg"
           imageWidth: 160
           imageHeight: 160
