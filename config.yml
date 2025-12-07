@@ -31,6 +31,7 @@ menu:
 params:
     description: "This website hosts Dingning Zhang's research papers, presentations, course materials, curriculum vitae, and contact information."
     author: Dingning Zhang
+    googleSiteVerification: "googleeaa85969be0eee6d.html"
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
