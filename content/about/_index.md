@@ -2,7 +2,7 @@
 title: "About Dingning Zhang"
 ---
 
-## Overview
+## About me
 
 Hi!
 
@@ -14,7 +14,7 @@ I am Zhang, Dingning 张丁宁 [ʈ͡ʂaŋ˥ tiŋ˥ niŋ˧˥], a predoctoral rese
 
 I work in the **Department of Catalan Philology and General Linguistics** at the **Faculty of Philology and Communication**. I am also affiliated with the **University of Barcelona Institute of Complex Systems (UBICS)** and the **Laboratory of Phonetics**, and a member of the research group at the **Center for Language and Computation (CLiC)**.
 
-I participate in the research project *“What Shapes Language? Experimental, Cross-Linguistic, and Computational Approaches to Understanding Linguistic Diversity”* (PID2022-138501NB-I00, Principal Investigator: Dr. Dan Dediu).
+I participate in the research project *“What Shapes Language? Experimental, Cross-Linguistic, and Computational Approaches to Understanding Linguistic Diversity”* (PID2022-138501NB-I00, Principal Investigator: **Dr. Dan Dediu**).
 
 ---
 
