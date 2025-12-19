@@ -6,7 +6,7 @@ author: "Dingning Zhang"
 description: "IELTS listening and speaking instruction at New Oriental Education (Koolearn), with extensive experience in online and offline teaching."
 summary: "IELTS listening and speaking instruction at New Oriental Education (Koolearn). I design and deliver curricula, teach online and offline, train new teachers, and support students to achieve target scores for overseas study."
 cover:
-    image: “xdfzx.png"
+    image: "xdfzx.png"
     alt: "IELTS teaching"
     relative: true
 editPost:
