@@ -42,7 +42,7 @@ This instruction primarily targets:
 + IELTS Listening & Speaking (core specialization)
 + Speaking mock examiner training and interview-style practice
 + High-level one-to-one writing coaching (advanced learners)
-+ Support for overseas study planning (e.g., UK, EU, Hong Kong)
++ Support for overseas study planning (e.g., US, UK, EU, Hong Kong)
 
 ---
 
@@ -59,11 +59,12 @@ Over my teaching work, I have achieved:
 
 ## Personal IELTS scores
 
++ **Overall: Band 8.0 (C2)**
 + **Listening: Band 9.0**
 + **Speaking: Band 8.5**
 
 ---
 
-## Teaching in practice
+## Personal poster
 
 ![](xdfzdn.jpg)
