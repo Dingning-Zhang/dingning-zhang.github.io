@@ -8,4 +8,3 @@ summary: "Beyond academia: music covers and personal writing."
 
 ## Wo die Sprache aufhört, fängt die Musik an
 
----
