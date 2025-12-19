@@ -18,7 +18,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-I have professional experience teaching IELTS for students ranging from middle school to PhD level, with a focus on **IELTS Listening and Speaking**. I currently work with **New Oriental Education (Koolearn)** and have delivered instruction in both **offline** (e.g., Shijiazhuang) and **online** (global) settings.
+I have professional experience teaching IELTS for students ranging from middle school to PhD level, with a focus on **IELTS Listening and Speaking**. I currently work with **New Oriental Education (新东方)** and have delivered instruction in both **offline** (e.g., Beijing and Shijiazhuang) and **online** (global) settings.
 
 ##### Course platform
 
@@ -30,12 +30,12 @@ I have professional experience teaching IELTS for students ranging from middle s
 
 **New Oriental Education, Beijing, China**
 
-+ **IELTS Offline Comprehensive Instructor** (March 2021 – October 2021)  
++ **IELTS Instructor** (March 2021 – October 2021)  
 + **IELTS Online Listening & Speaking Instructor** (March 2022 – Present)
 
 ---
 
-## Teaching focus
+## Teaching focuses
 
 This instruction primarily targets:
 
@@ -46,7 +46,7 @@ This instruction primarily targets:
 
 ---
 
-## Outcomes
+## Teaching outcomes
 
 Over my teaching work, I have achieved:
 
@@ -57,11 +57,11 @@ Over my teaching work, I have achieved:
 
 ---
 
-## Personal IELTS scores
+## IELTS scores
 
 + **Overall: Band 8.0 (C2)**
-+ **Listening: Band 9.0**
-+ **Speaking: Band 8.5**
+  + Listening: Band 9.0
+  + Speaking: Band 8.5
 
 ---
 
