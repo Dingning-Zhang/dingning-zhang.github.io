@@ -6,7 +6,7 @@ author: "Dingning Zhang"
 description: "IELTS listening and speaking instruction at New Oriental Education (Koolearn), with extensive experience in online and offline teaching."
 summary: "IELTS listening and speaking instruction at New Oriental Education (Koolearn). I design and deliver curricula, teach online and offline, train new teachers, and support students to achieve target scores for overseas study."
 cover:
-    image: “xdfzdn.jpg"
+    image: “xdfzx.png"
     alt: "IELTS teaching"
     relative: true
 editPost:
@@ -35,7 +35,7 @@ I have professional experience teaching IELTS for students ranging from middle s
 
 ---
 
-## Part 1: Teaching focus
+## Teaching focus
 
 This instruction primarily targets:
 
@@ -46,30 +46,13 @@ This instruction primarily targets:
 
 ---
 
-## Part 2: Responsibilities
-
-My teaching and instructional work includes:
-
-+ Designing and iterating **IELTS Listening & Speaking course content**
-+ Delivering:
-  + online (global) instruction
-  + offline (Shijiazhuang) group classes
-  + one-to-one tutoring
-+ Hosting course live sessions and supporting course delivery
-+ Training and mentoring new IELTS instructors
-+ Serving as an IELTS speaking mock examiner
-+ Providing advanced one-to-one writing coaching
-+ Supporting students’ overseas study planning
-
----
-
-## Part 3: Outcomes
+## Outcomes
 
 Over my teaching work, I have achieved:
 
-+ **1,500+ teaching hours**
-+ Support for **300+ students** to reach target scores and obtain admissions
-+ **100+ students** reaching **IELTS Band 7.0+**
++ **3,000+ teaching hours**
++ Support for **1,000+ students** to reach target scores and obtain admissions
++ **200+ students** reaching **IELTS Band 7.0+**
 + Consistently strong student feedback and learning outcomes
 
 ---
@@ -83,6 +66,4 @@ Over my teaching work, I have achieved:
 
 ## Teaching in practice
 
-![](ielts2.jpg)
-
-*Example of IELTS teaching in practice (replace with your preferred image).*
+![](xdfzdn.jpg)
