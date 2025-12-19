@@ -11,7 +11,7 @@ cover:
   hiddenInSingle: false
 ---
 
-###I write articles and modern poems on literature, music, dreams and contemporary life.
+### I write articles and modern poems on literature, music, dreams and contemporary life.
 
 I have been posting articles and poems on my WeChat public account **“太阳炸了”** since 2020. Below are some selected writings:
 
