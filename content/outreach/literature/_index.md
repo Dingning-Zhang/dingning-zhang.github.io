@@ -2,8 +2,8 @@
 title: "Literature"
 date: 2025-12-19
 showToc: false
-description: "Personal writing and literary reflections."
-summary: "Personal writing and literary reflections"
+description: "Personal writing and literary reflections since 2020"
+summary: "Personal writing and literary reflections since 2020"
 cover:
   image: "wxgzh.jpg"
   alt: "Literature"
