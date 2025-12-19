@@ -2,8 +2,8 @@
 title: "Music"
 date: 2025-12-19
 showToc: false
-description: "Music covers."
-summary: "Music covers and personal musical practice"
+description: "Music covers"
+summary: "Music covers and guitar practice since 2015"
 cover:
   image: "qmkg.jpg"
   alt: "Music"
