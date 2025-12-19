@@ -6,8 +6,6 @@ description: "Beyond academia: music covers and personal writing."
 summary: "Beyond academia: music covers and personal writing."
 ---
 
-## Beyond academia
-
-Wo die Sprache aufhört, fängt die Musik an.
+## Wo die Sprache aufhört, fängt die Musik an
 
 ---
