@@ -1,10 +1,10 @@
 ---
-title: "IELTS Listening & Speaking Instruction"
+title: "IELTS Teaching"
 date: 2025-12-18
 tags: ["IELTS","English teaching","Listening","Speaking","Test preparation"]
 author: "Dingning Zhang"
-description: "IELTS listening and speaking instruction at New Oriental Education (Koolearn), with extensive experience in online and offline teaching."
-summary: "IELTS listening and speaking instruction at New Oriental Education (Koolearn). I design and deliver curricula, teach online and offline, train new teachers, and support students to achieve target scores for overseas study."
+description: "IELTS listening and speaking instructor at New Oriental Education (新东方) since 2021"
+summary: "IELTS listening and speaking instructor at New Oriental Education (新东方) since 2021"
 cover:
     image: "xdfzx.png"
     alt: "IELTS teaching"
