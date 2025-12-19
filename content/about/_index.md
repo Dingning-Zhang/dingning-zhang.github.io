@@ -37,8 +37,14 @@ In 2025, I founded **Dingning Education Technology Co., Ltd.**, a company dedica
 ## Ongoing study
 
 - A large-scale experimental investigation of the Hubei trill, documenting its acoustic and articulatory properties using ultrasound tongue imaging (UTI) and quantitative modelling (regression and Bayesian approaches).
+
+
 - Cross-linguistic production and perception studies on the Spanish and Catalan tap–trill contrast among L1 Chinese learners of L2 Spanish and Catalan.
+
+  
 - A systematic review of Chinese–Spanish rhotic similarity, framed within the Speech Learning Model (SLM) and the Perceptual Assimilation Model for L2 (PAM-L2).
+
+  
 - A systematic scope review of the Hubei trill, examining its phonetic and phonological characteristics, its historical and areal development, and the mechanisms underlying its emergence and persistence.
 
 ---
