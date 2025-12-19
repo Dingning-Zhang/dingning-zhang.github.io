@@ -8,7 +8,9 @@ summary: "Beyond academia: music covers and personal writing."
 
 ## Beyond academia
 
-Outside of academic work, I also enjoy **music** and **literature**. I occasionally share recordings and personal writing on public platforms.
+Beyond research and teaching, I am passionate about literature and music.
+
+**Wo die Sprache aufhört, fängt die Musik an.**
 
 ---
 
