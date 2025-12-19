@@ -3,7 +3,7 @@ title: "Literature"
 date: 2025-12-19
 showToc: false
 description: "Personal writing and literary reflections."
-summary: "Personal writing and literary reflections."
+summary: "Personal writing and literary reflections"
 cover:
   image: "wxgzh.jpg"
   alt: "Literature"
@@ -11,13 +11,13 @@ cover:
   hiddenInSingle: false
 ---
 
-I write articles and modern poems on literature, music, dream and contemporary life.
+I write articles and modern poems on literature, music, dreams and contemporary life.
 
 ---
 
 ## Writing
 
-I post articles and poems on my WeChat public account **“太阳炸了”** since 2020. Below are some selected writings:
+I have been posting articles and poems on my WeChat public account **“太阳炸了”** since 2020. Below are some selected writings:
 
 + **“耳机里的后疫情时代”** – [Read here](https://mp.weixin.qq.com/s/AYRaH4xuYQYT32upzmK9Jg)
 + **“IF WINTER COMES”** – [Read here](https://mp.weixin.qq.com/s/hIDcgIcyHmvgIbsIgOwZ8w)
