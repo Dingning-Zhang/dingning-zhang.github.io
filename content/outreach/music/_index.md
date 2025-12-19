@@ -3,9 +3,9 @@ title: "Music"
 date: 2025-12-19
 showToc: false
 description: "Music covers."
-summary: "Music covers and personal musical practice."
+summary: "Music covers and personal musical practice"
 cover:
-  image: "music.jpg"
+  image: "qmkg.jpg"
   alt: "Music"
   relative: true
   hiddenInSingle: false
