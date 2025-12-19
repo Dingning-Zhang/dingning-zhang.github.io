@@ -11,12 +11,12 @@ cover:
   hiddenInSingle: false
 ---
 
-I write short articles and reflections on literature, everyday experience, and contemporary life.
+I write short articles on literature, music and contemporary life.
 
 ---
 
 ## Writing
 
-Essays on my WeChat public account **“太阳炸了”**.
+Articles on my WeChat public account **“太阳炸了”**.
 
 + **“耳机里的后疫情时代”** – [Read here](https://mp.weixin.qq.com/s/AYRaH4xuYQYT32upzmK9Jg)
