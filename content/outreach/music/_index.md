@@ -3,7 +3,7 @@ title: "Music"
 date: 2025-12-19
 showToc: false
 description: "Music covers"
-summary: "Music covers and guitar practice since 2015"
+summary: "Music covers and guitar practices since 2015"
 cover:
   image: "qmkg.jpg"
   alt: "Music"
@@ -11,11 +11,8 @@ cover:
   hiddenInSingle: false
 ---
 
-I share occasional covers as part of my personal musical practice.
+### I share occasional covers as part of my personal musical practices
 
----
-
-## Music covers
 
 I have been posting vocal covers on **WeSing** since 2015. Below are some selected recordings:
 
@@ -41,6 +38,6 @@ I have been posting vocal covers on **WeSing** since 2015. Below are some select
 
 + **“那些花儿” (cover)** – [Listen here](https://static-play.kg.qq.com/node/KuqbZ4cVB5/play_v2?s=gdJTYlgVmF9iwgH5&shareuid=66999d8d2529368d&abtype=13&shareDescABType=1&topsource=a0_pn201001006_z1_u44080416_l0_t1766181006__&chain_share_id=UIaM5amCvgZ7nJetnlhmDJoAWOWxSNpRRrOaFmKjEGE&pageId=details_of_creations)
 
-In addition, I post some guitar covers on **Bilibili**, for example:
+In addition, I have been posting some videos of guitar practices on **Bilibili**, for example:
 
 + **“和你在一起” (guitar & vocal cover)** – [Watch here](https://b23.tv/yWk4Gi6)
