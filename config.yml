@@ -15,9 +15,9 @@ menu:
         - name: About
           url: about/
           weight: 2 
-        -name: News
-         url: news/
-         weight:3
+        - name: News
+          url: news/
+          weight: 3
         - name: Publications
           url: publications/
           weight: 4
@@ -48,7 +48,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about","publications","presentations","teaching","outreach"]
+    MainSections: ["about","news","publications","presentations","teaching","outreach"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
