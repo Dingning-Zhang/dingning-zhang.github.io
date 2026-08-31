@@ -7,12 +7,7 @@ summary: "News & Updates"
 
 ### 2026
 
-* **[2026.11]** Upcoming poster presentation at *[Conference Name]*, [City].
-* **[2026.09]** Guest talk on experimental phonetics at *[Institution/Workshop]*.
-* **[2026.05]** Our paper *"[Paper Title]"* was accepted by *[Journal/Conference]*.
-
-### 2025
-
-* **[2025.10]** Started my predoctoral research at the University of Barcelona.
-* **[2025.06]** Awarded the *[Grant/Award Name]*.
+* **[Nov – Dec]** Upcoming linguistic fieldwork in Hubei, China.
+* **[Aug]** Invited to review manuscripts for *Linguistic Typology*.
+* **[Mar – Jun]** Visiting researcher at the Phonetics Laboratory, Peking University.
 
